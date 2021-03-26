@@ -1,0 +1,3 @@
+3 marzo;Supermercato;Descrizione1;200
+22 aprile;Viaggio;Descrizione2;450
+6 agosto; Regalo; Descrizione13;399

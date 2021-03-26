@@ -1,0 +1,13 @@
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.exe
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.deps.json
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.runtimeconfig.json
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.runtimeconfig.dev.json
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.dll
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\bin\Debug\netcoreapp3.1\EsercizioWeek1Academy.pdb
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.csprojAssemblyReference.cache
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.AssemblyInfoInputs.cache
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.AssemblyInfo.cs
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.csproj.CoreCompileInputs.cache
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.dll
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.pdb
+C:\Users\faggi\source\repos\EsercizioWeek1Academy\EsercizioWeek1Academy\obj\Debug\netcoreapp3.1\EsercizioWeek1Academy.genruntimeconfig.cache
